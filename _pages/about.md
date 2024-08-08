@@ -24,10 +24,23 @@ My CV is [here](../assets/Zehao_Song_CV.pdf).
 The power system is undergoing an evolutionary transition for a more sustainable future under the goal of decarbonization.
 My research focuses on the power system operation problem with ever-increasing distributed energy resources (DERs) like
 renewable energy resources (RESs), energy storage systems (ESSs) and electric vehicles (EVs) integration on the demand-side.
-## Uncertainty Problem: 
+## Uncertainty Problem
 Handle with uncertainty problem associated with RES during power system operation. My current research interest is on distributionally robust optimization (DRO) based approaches.
-## Distributed Optimization in Smart Grid: 
+## Distributed Optimization in Smart Grid
 Decentralized and distributed operation mode to fully exploit the flexibility and edge-intelligence of numerous DERs and promote demand-side users to participate in demand response (DR).
+
+# Updates
+2024/07: It's a great honor to present our work [“Carbon-Aware Peer to Peer Joint Energy and Reserve Trading Market for Prosumers in Distribution Networks”] published in IEEE Internet of Things Journal @ 2024 IEEE Power and Energy Society General Meeting (PES GM)，Seattle, Washington, USA.   
+
+
+2024/05: Our paper entitled [“Low‐carbon demand response program for power systems considering uncertainty based on the data‐driven distributionally robust chance constrained optimization”](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/rpg2.13021) has been accepted by IET Renewable Power Generation. DOI: 10.1049/rpg2.13021.
+
+2024/02: Our paper entitled [“Carbon-Aware Peer to Peer Joint Energy and Reserve Trading Market for Prosumers in Distribution Networks”](https://ieeexplore.ieee.org/document/10440140) has been accepted by IEEE Internet of Things Journal. DOI: 10.1109/JIOT.2024.3367361.
+
+2023/06: Our paper entitled [“Low-carbon Scheduling Strategy of Distributed Energy Resources Based on Node Carbon Intensity for Distribution Networks”](https://www.researchgate.net/publication/371968866_Low-carbon_Scheduling_Strategy_of_Distributed_Energy_Resources_Based_on_Node_Carbon_Intensity_for_Distribution_Networks?__cf_chl_rt_tk=n7KLodo6g9zKa6VT_xPf9.k8wlX6gWVhMf5vZ0COnvQ-1708670092-0.0-5053) has been accepted by High Voltage Engineering (EI Index, in Chinese), June, 2023, 49(06):2318-2328. DOI:10.13336/j.1003-6520.HVE.20230216.
+
+2023/02: Our paper entitled [“Network-Constrained Transactive Control for Multi-Microgrids-Based Distribution Networks With Soft Open Points”](https://ieeexplore.ieee.org/document/10048557) has been accepted by IEEE Transactions on Sustainable Energy, vol. 14, no. 3, pp. 1769-1783, July 2023. DOI:10.1109/TSTE.2023.3246360.
+
 
 # Selected Projects
 
@@ -59,23 +72,17 @@ Role: Participant Nov. 2021 — Dec. 2022
 
 # Talks & Presentations
 
-## Network-Constrained_Transactive_Control_for_Multi-Microgrids-based_Distribution_Networks_with_Soft_Open_Points
+## Network-Constrained Transactive Control for Multi-Microgrids-based Distribution Networks with Soft Open Points
 Oral presentation @ the 15th Guangdong-Hong Kong-Macao Greater Bay Area Academic Forum for Doctoral Students in conjunction with the 706th Tsinghua University Academic Forum, Shenzhen, Guangdong, China.
+
 Description: "This oral presentation is about the transactive energy control framework for multi-microgrids."
 
 ## Carbon-Aware Peer to Peer Joint Energy and Reserve Trading Market for Prosumers in Distribution Networks
 Presentation @ 2024 IEEE Power and Energy Society General Meeting (PES GM), Seattle, Washington, USA. 
+
 Description: "This presentation is about carbon-aware P2P trading for Prosumers in distribution networks."
 
 
-# Updates
-2024/05: Our paper entitled [“Low‐carbon demand response program for power systems considering uncertainty based on the data‐driven distributionally robust chance constrained optimization”](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/rpg2.13021) has been accepted by IET Renewable Power Generation. DOI: 10.1049/rpg2.13021.
-
-2024/02: Our paper entitled [“Carbon-Aware Peer to Peer Joint Energy and Reserve Trading Market for Prosumers in Distribution Networks”](https://ieeexplore.ieee.org/document/10440140) has been accepted by IEEE Internet of Things Journal. DOI: 10.1109/JIOT.2024.3367361.
-
-2023/06: Our paper entitled [“Low-carbon Scheduling Strategy of Distributed Energy Resources Based on Node Carbon Intensity for Distribution Networks”](https://www.researchgate.net/publication/371968866_Low-carbon_Scheduling_Strategy_of_Distributed_Energy_Resources_Based_on_Node_Carbon_Intensity_for_Distribution_Networks?__cf_chl_rt_tk=n7KLodo6g9zKa6VT_xPf9.k8wlX6gWVhMf5vZ0COnvQ-1708670092-0.0-5053) has been accepted by High Voltage Engineering (EI Index, in Chinese), June, 2023, 49(06):2318-2328. DOI:10.13336/j.1003-6520.HVE.20230216.
-
-2023/02: Our paper entitled [“Network-Constrained Transactive Control for Multi-Microgrids-Based Distribution Networks With Soft Open Points”](https://ieeexplore.ieee.org/document/10048557) has been accepted by IEEE Transactions on Sustainable Energy, vol. 14, no. 3, pp. 1769-1783, July 2023. DOI:10.1109/TSTE.2023.3246360.
 
 
 
