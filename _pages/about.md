@@ -20,6 +20,54 @@ My research interests include power system optimization and control, decarboniza
 
 My CV is [here](../assets/Zehao_Song_CV.pdf).
 
+# Research
+The power system is undergoing an evolutionary transition for a more sustainable future under the goal of decarbonization.
+My research focuses on the power system operation problem with ever-increasing distributed energy resources (DERs) like
+renewable energy resources (RESs), energy storage systems (ESSs) and electric vehicles (EVs) integration on the demand-side.
+## Uncertainty Problem: 
+Handle with uncertainty problem associated with RES during power system operation. My current research interest is on distributionally robust optimization (DRO) based approaches.
+## Distributed Optimization in Smart Grid: 
+Decentralized and distributed operation mode to fully exploit the flexibility and edge-intelligence of numerous DERs and promote demand-side users to participate in demand response (DR).
+
+# Selected Projects
+
+## Research on the interactive regulation of urban power grid and massive electric vehicles for group intelligent clustering and aggregation. 
+Supported by the Shenzhen Natural Science Foundation.
+Role: Main participant Dec. 2023 — Dec. 2025
+
+
+## Key Technology and Application of Virtual Power Plant Construction and Scheduling for Urban Massive Flexible Resource Aggregation. 
+China Southern Power Grid Scientific Project. 
+Received the Second-class prize of Shenzhen
+Scientific and Technological Progress.
+Role: Main participan. Jun. 2022 — Aug. 2023
+
+
+## Research on distributed energy resources aggregation and optimized scheduling technique of virtual power plant for decarbonization. 
+China Southern Power Grid Scientific Project.
+Role: Main participant Jun. 2022 — Aug. 2023
+
+
+## Urban power grid scheduling technique with large-scale electric vehicle integration research. 
+State Grid Corporation of China Scientific Project.
+Role: Participant Jan. 2021 — Dec. 2022
+
+## Cloud-Cluster-End coordinated virtual power plant optimal operation research. 
+China Southern Power Grid
+Scientific Project.
+Role: Participant Nov. 2021 — Dec. 2022
+
+# Talks & Presentations
+
+## Network-Constrained_Transactive_Control_for_Multi-Microgrids-based_Distribution_Networks_with_Soft_Open_Points
+Oral presentation @ the 15th Guangdong-Hong Kong-Macao Greater Bay Area Academic Forum for Doctoral Students in conjunction with the 706th Tsinghua University Academic Forum, Shenzhen, Guangdong, China.
+Description: "This oral presentation is about the transactive energy control framework for multi-microgrids."
+
+## Carbon-Aware Peer to Peer Joint Energy and Reserve Trading Market for Prosumers in Distribution Networks
+Presentation @ 2024 IEEE Power and Energy Society General Meeting (PES GM), Seattle, Washington, USA. 
+Description: "This presentation is about carbon-aware P2P trading for Prosumers in distribution networks."
+
+
 # Updates
 2024/05: Our paper entitled [“Low‐carbon demand response program for power systems considering uncertainty based on the data‐driven distributionally robust chance constrained optimization”](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/rpg2.13021) has been accepted by IET Renewable Power Generation. DOI: 10.1049/rpg2.13021.
 
