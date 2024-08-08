@@ -21,16 +21,25 @@ My research interests include power system optimization and control, decarboniza
 My CV is [here](../assets/Zehao_Song_CV.pdf).
 
 # Research
+
 The power system is undergoing an evolutionary transition for a more sustainable future under the goal of decarbonization.
 My research focuses on the power system operation problem with ever-increasing distributed energy resources (DERs) like
 renewable energy resources (RESs), energy storage systems (ESSs) and electric vehicles (EVs) integration on the demand-side.
+
 ## Uncertainty Problem
+
 Handle with uncertainty problem associated with RES during power system operation. My current research interest is on distributionally robust optimization (DRO) based approaches.
+
 ## Distributed Optimization
+
 Decentralized and distributed operation mode to fully exploit the flexibility and edge-intelligence of numerous DERs and promote demand-side users to participate in demand response (DR).
 
+## Decarbonization of the power system 
+Design effective carbon emission reduction paradigm to promote low-carbon operation of the power system based on carbon emission flow (CEF) theory and locational marginal carbon emission factor analysis. The key point is to investigate the relationship between the operation strategies of various kinds of DERs and the carbon emission impact of the system. 
+
+
 # Updates
-2024/07: It's a great honor to present our work [“Carbon-Aware Peer to Peer Joint Energy and Reserve Trading Market for Prosumers in Distribution Networks”] published in IEEE Internet of Things Journal @ 2024 IEEE Power and Energy Society General Meeting (PES GM)，Seattle, Washington, USA.   
+2024/07: It's a great honor to present our work [“Carbon-Aware Peer to Peer Joint Energy and Reserve Trading Market for Prosumers in Distribution Networks”](https://ieeexplore.ieee.org/document/10440140) published in IEEE Internet of Things Journal @ 2024 IEEE Power and Energy Society General Meeting (PES GM)，Seattle, Washington, USA.   
 
 
 2024/05: Our paper entitled [“Low‐carbon demand response program for power systems considering uncertainty based on the data‐driven distributionally robust chance constrained optimization”](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/rpg2.13021) has been accepted by IET Renewable Power Generation. DOI: 10.1049/rpg2.13021.
@@ -59,7 +68,7 @@ China Southern Power Grid Scientific Project.
 
 Received the Second-class prize of Shenzhen Scientific and Technological Progress.
 
-Role: Main participan. 
+Role: Main participant. 
 
 Jun. 2022 — Aug. 2023
 
@@ -103,7 +112,7 @@ Description: "This oral presentation is about the transactive energy control fra
 
 Presentation @ 2024 IEEE Power and Energy Society General Meeting (PES GM), Seattle, Washington, USA. 
 
-Description: "This presentation is about carbon-aware P2P trading for Prosumers in distribution networks."
+Description: "This presentation is about carbon-aware P2P trading for prosumers in distribution networks."
 
 
 
