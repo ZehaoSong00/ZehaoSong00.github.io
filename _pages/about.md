@@ -23,8 +23,7 @@ My CV is [here](../assets/Zehao_Song_CV.pdf).
 # Research
 
 The power system is undergoing an evolutionary transition for a more sustainable future under the goal of decarbonization.
-My research focuses on the power system operation problem with ever-increasing distributed energy resources (DERs) like
-renewable energy resources (RESs), energy storage systems (ESSs) and electric vehicles (EVs) integration on the demand-side.
+My research focuses on the power system operation problem with ever-increasing distributed energy resources (DERs) like renewable energy resources (RESs), energy storage systems (ESSs) and electric vehicles (EVs) integration on the demand-side.
 
 ## Uncertainty Problem
 
