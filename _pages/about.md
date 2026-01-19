@@ -12,9 +12,11 @@ redirect_from:
 
 # About Me
 
-I'm currently pursing my Master of Science degree in Electrical Engineering at Tsinghua University, advised by Prof. [Yinliang Xu](https://www.tbsi.edu.cn/xyl_en/main.htm). 
+I'm currently pursuing my Ph.D. degree at the Department of Civil and Environmental Engineering, Northwestern University
 
-I'm a member of Energy Management System Laboratory led by Prof. [Hongbin Sun](https://www.eea.tsinghua.edu.cn/en/faculties/shb.htm), Department of Electrical Engineering, Tsinghua University.
+I earned my Master of Science degree in Electrical Engineering at Tsinghua University, advised by Prof. [Yinliang Xu](https://www.tbsi.edu.cn/xyl_en/main.htm). 
+
+I'm a member of the Northwestern University Transportation Center and the Energy Management System Laboratory led by Prof. [Hongbin Sun](https://www.eea.tsinghua.edu.cn/en/faculties/shb.htm), Department of Electrical Engineering, Tsinghua University.
 
 My research interests include power system optimization and control, decarbonization of the power system, and the application of data-driven method in power systems.
 
@@ -22,20 +24,18 @@ My CV is [here](../assets/Zehao_Song_CV.pdf).
 
 # Research
 
-The power system is undergoing an evolutionary transition for a more sustainable future under the goal of decarbonization.
-My research focuses on the power system operation problem with ever-increasing distributed energy resources (DERs) like renewable energy resources (RESs), energy storage systems (ESSs) and electric vehicles (EVs) integration on the demand-side.
+The urban transportation and energy system is undergoing an evolutionary transition toward a more intelligent and sustainable future. My research focuses on the safety-guaranteed operation for time-varying spatial-temporal systems with increasing uncertainty from demand-side integrated distributed energy resources (DERs), such as renewable energy resources (RESs), energy storage systems (ESSs), and electric vehicle (EVs) integration.
 
 ## Uncertainty Problem
 
-Handle with uncertainty problem associated with RES during power system operation. My current research interest is on distributionally robust optimization (DRO) based approaches.
+Improving the resilience of spatial-temporal system operation under multiple uncertainties such as stochastic user load demands and volatile renewable generation. My current research interest lies in data-driven methods such as distributionally robust chance constraint (DRCC) based approaches.
 
 ## Distributed Optimization
 
 Decentralized and distributed operation mode to fully exploit the flexibility and edge-intelligence of numerous DERs and promote demand-side users to participate in demand response (DR).
 
 ## Decarbonization of the power system 
-Design effective carbon emission reduction paradigm to promote low-carbon operation of the power system based on carbon emission flow (CEF) theory and locational marginal carbon emission factor analysis. The key point is to investigate the relationship between the operation strategies of various kinds of DERs and the carbon emission impact of the system. 
-
+ Designing proper carbon emission obligation mechanisms and effective carbon emission reduction paradigms to promote low-carbon operation of the urban transportation and energy system based on the attributional and consequential carbon accounting methods.
 
 # Updates
 2024/07: It's a great honor to present our work [“Carbon-Aware Peer to Peer Joint Energy and Reserve Trading Market for Prosumers in Distribution Networks”](https://ieeexplore.ieee.org/document/10440140) published in IEEE Internet of Things Journal @ 2024 IEEE Power and Energy Society General Meeting (PES GM)，Seattle, Washington, USA.   
