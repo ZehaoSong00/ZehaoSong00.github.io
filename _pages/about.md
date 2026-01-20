@@ -12,18 +12,18 @@ redirect_from:
 
 # About Me
 
-I'm currently pursuing my Ph.D. degree at the Department of Civil and Environmental Engineering, Northwestern University
+I'm currently pursuing my Ph.D. degree at the Department of Civil and Environmental Engineering, Northwestern University.
 
 I earned my Master of Science degree in Electrical Engineering at Tsinghua University, advised by Prof. [Yinliang Xu](https://www.tbsi.edu.cn/xyl_en/main.htm). 
 
 I'm a member of the Northwestern University Transportation Center and the Energy Management System Laboratory led by Prof. [Hongbin Sun](https://www.eea.tsinghua.edu.cn/en/faculties/shb.htm), Department of Electrical Engineering, Tsinghua University.
 
-\section*{RESEARCH INTERESTS}
-\begin{itemize}
-    \item \indent Methodologies: Sequential decision-making under uncertainty, distributionally robust optimization (DRO), distributed optimization, deep reinforcement learning (DRL).
+RESEARCH INTERESTS
+
+Methodologies: Sequential decision-making under uncertainty, distributionally robust optimization (DRO), distributed optimization, deep reinforcement learning (DRL).
     
-    \item \indent Applications: Coordinated operation of the urban transportation and energy systems for decarbonization and resilience enhancement, safety-guaranteed operation for time-varying spatial-temporal systems under uncertainty, urban facilicity service pricing.
-\end{itemize}
+Applications: Coordinated operation of the urban transportation and energy systems for decarbonization and resilience enhancement, safety-guaranteed operation for time-varying spatial-temporal systems under uncertainty, urban facilicity service pricing.
+
 
 My CV is [here](../assets/CV.pdf).
 
