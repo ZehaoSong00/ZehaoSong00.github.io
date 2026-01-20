@@ -20,7 +20,7 @@ I'm a member of the Northwestern University Transportation Center and the Energy
 
 My research interests include power system optimization and control, decarbonization of the power system, and the application of data-driven method in power systems.
 
-My CV is [here](../assets/Zehao_Song_NWU_CV.pdf).
+My CV is [here](../assets/CV.pdf).
 
 # Research
 
