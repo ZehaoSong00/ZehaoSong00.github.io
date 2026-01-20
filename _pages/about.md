@@ -18,7 +18,12 @@ I earned my Master of Science degree in Electrical Engineering at Tsinghua Unive
 
 I'm a member of the Northwestern University Transportation Center and the Energy Management System Laboratory led by Prof. [Hongbin Sun](https://www.eea.tsinghua.edu.cn/en/faculties/shb.htm), Department of Electrical Engineering, Tsinghua University.
 
-My research interests include power system optimization and control, decarbonization of the power system, and the application of data-driven method in power systems.
+\section*{RESEARCH INTERESTS}
+\begin{itemize}
+    \item \indent Methodologies: Sequential decision-making under uncertainty, distributionally robust optimization (DRO), distributed optimization, deep reinforcement learning (DRL).
+    
+    \item \indent Applications: Coordinated operation of the urban transportation and energy systems for decarbonization and resilience enhancement, safety-guaranteed operation for time-varying spatial-temporal systems under uncertainty, urban facilicity service pricing.
+\end{itemize}
 
 My CV is [here](../assets/CV.pdf).
 
